@@ -35,6 +35,7 @@ p {
 .foot-text {
     color: #F4F4FD;
     letter-spacing: 0.32px;
+    line-height: 24px;
 }
 
 .team {
@@ -85,12 +86,16 @@ p {
     color: #404BBF;
 }
 
-.page-add .link:hover {
+.link:hover, .link:focus {
     color: #404BBF;
 }
 
-.link:hover, .link:focus {
+.page-add .link:hover, .page-add .link:focus {
     color: #404BBF;
+}
+
+.page-add {
+    font-style: normal
 }
 
 .page-add .link {
