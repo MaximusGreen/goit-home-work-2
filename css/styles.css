@@ -35,7 +35,7 @@ p {
 .foot-text {
     color: #F4F4FD;
     letter-spacing: 0.32px;
-    line-height: 24px;
+    line-height: 1.5;
 }
 
 .team {
@@ -95,7 +95,7 @@ p {
 }
 
 .page-add {
-    font-style: normal
+    font-style: normal;
 }
 
 .page-add .link {
