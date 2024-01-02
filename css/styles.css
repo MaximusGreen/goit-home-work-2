@@ -22,7 +22,7 @@ p {
     text-align: center;
 }
 
-.prg {
+.prg, .portfolio-prg {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
@@ -140,7 +140,7 @@ color: #434455;
     color: #4d5ae5;
 }
 
-.lii {
+.lii, .our-team-li {
     background-color: #FFFFFF;
 
 }
