@@ -10,11 +10,11 @@ ul, ol {
     list-style-type: none;
 }
 
-.span-1 {
+.span {
     color: #2e2f42;
 }
 
-.span-2 {
+.span-f {
     color: #F4F4FD;
 }
 
@@ -22,7 +22,7 @@ p {
     text-align: center;
 }
 
-.prg-1, .prg-2, .prg {
+.prg {
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 0.32px;
@@ -140,7 +140,7 @@ color: #434455;
     color: #4d5ae5;
 }
 
-.li-2 {
+.lii {
     background-color: #FFFFFF;
 
 }
